@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/livret-pa-flashback/static/css/main.da93796b.css",
+    "main.js": "/livret-pa-flashback/static/js/main.debda175.js",
+    "static/js/453.920d4b45.chunk.js": "/livret-pa-flashback/static/js/453.920d4b45.chunk.js",
+    "static/media/MCD.png": "/livret-pa-flashback/static/media/MCD.27034c08952c191888a3.png",
+    "static/media/logo-crime-flashback5.png": "/livret-pa-flashback/static/media/logo-crime-flashback5.78f46ff583d0da5dc4de.png",
+    "static/media/Logo-Police-Academy.png": "/livret-pa-flashback/static/media/Logo-Police-Academy.0a17f3a54aa84c8fe2fe.png",
+    "static/media/hp.png": "/livret-pa-flashback/static/media/hp.f29d23b047f5075785ef.png",
+    "static/media/td.png": "/livret-pa-flashback/static/media/td.704e979e3f82ebea2047.png",
+    "static/media/asd.png": "/livret-pa-flashback/static/media/asd.2f54571932410e95e6d0.png",
+    "static/media/DOA.png": "/livret-pa-flashback/static/media/DOA.bd248df93e598d5496ab.png",
+    "index.html": "/livret-pa-flashback/index.html",
+    "main.da93796b.css.map": "/livret-pa-flashback/static/css/main.da93796b.css.map",
+    "main.debda175.js.map": "/livret-pa-flashback/static/js/main.debda175.js.map",
+    "453.920d4b45.chunk.js.map": "/livret-pa-flashback/static/js/453.920d4b45.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da93796b.css",
+    "static/js/main.debda175.js"
+  ]
+}
