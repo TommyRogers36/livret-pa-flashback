@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/livret-pa-flashback/static/css/main.ba21725b.css",
-    "main.js": "/livret-pa-flashback/static/js/main.cacf9d01.js",
+    "main.js": "/livret-pa-flashback/static/js/main.27a63fd1.js",
     "static/js/453.920d4b45.chunk.js": "/livret-pa-flashback/static/js/453.920d4b45.chunk.js",
     "static/media/MCD.png": "/livret-pa-flashback/static/media/MCD.27034c08952c191888a3.png",
     "static/media/logo-crime-flashback5.png": "/livret-pa-flashback/static/media/logo-crime-flashback5.78f46ff583d0da5dc4de.png",
@@ -14,11 +14,11 @@
     "static/media/DOA.png": "/livret-pa-flashback/static/media/DOA.bd248df93e598d5496ab.png",
     "index.html": "/livret-pa-flashback/index.html",
     "main.ba21725b.css.map": "/livret-pa-flashback/static/css/main.ba21725b.css.map",
-    "main.cacf9d01.js.map": "/livret-pa-flashback/static/js/main.cacf9d01.js.map",
+    "main.27a63fd1.js.map": "/livret-pa-flashback/static/js/main.27a63fd1.js.map",
     "453.920d4b45.chunk.js.map": "/livret-pa-flashback/static/js/453.920d4b45.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ba21725b.css",
-    "static/js/main.cacf9d01.js"
+    "static/js/main.27a63fd1.js"
   ]
 }
