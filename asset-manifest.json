@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/livret-pa-flashback/static/css/main.4c6da8cf.css",
-    "main.js": "/livret-pa-flashback/static/js/main.ad05c622.js",
+    "main.js": "/livret-pa-flashback/static/js/main.d8a65350.js",
     "static/js/453.920d4b45.chunk.js": "/livret-pa-flashback/static/js/453.920d4b45.chunk.js",
     "static/media/etape-plainte.png": "/livret-pa-flashback/static/media/etape-plainte.df8b67280156859647e3.png",
     "static/media/MCD.png": "/livret-pa-flashback/static/media/MCD.27034c08952c191888a3.png",
@@ -15,11 +15,11 @@
     "static/media/DOA.png": "/livret-pa-flashback/static/media/DOA.bd248df93e598d5496ab.png",
     "index.html": "/livret-pa-flashback/index.html",
     "main.4c6da8cf.css.map": "/livret-pa-flashback/static/css/main.4c6da8cf.css.map",
-    "main.ad05c622.js.map": "/livret-pa-flashback/static/js/main.ad05c622.js.map",
+    "main.d8a65350.js.map": "/livret-pa-flashback/static/js/main.d8a65350.js.map",
     "453.920d4b45.chunk.js.map": "/livret-pa-flashback/static/js/453.920d4b45.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c6da8cf.css",
-    "static/js/main.ad05c622.js"
+    "static/js/main.d8a65350.js"
   ]
 }
